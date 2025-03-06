@@ -50,7 +50,7 @@
      <a href="https://www.hackerearth.com/@Aderiani" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=Hacker Earth&style=for-the-badge" /></a>
    <a href="https://www.hackerrank.com/Aderiani?hr_r=1" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=Hacker Rank&style=for-the-badge" /></a>
    <a href="https://exercism.org/profiles/Aderiani" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=exercism&logoColor=ffffff&message=exercism&style=for-the-badge" /></a>
-   <a href="https://linktr.ee/thibaultfarges" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=&logoColor=ffffff&message=Linktr.ee&style=for-the-badge" /></a>
+
 </div>
 
 ---
