@@ -96,44 +96,12 @@
   </a>
 </div>
 
-
----
 ---
 
----
----
-
-<tr>
-    <td>
-        <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-    </td>
-<td>
-<samp font="Raleway">
-    <details>
-        <summary>Certificate of completion</summary>
-        <div>
-            <span><a href="https://www.udemy.com/certificate/UC-20be7661-58bb-4aac-a098-bb4081b4fd8b/" target="_blank">The Complete Guide to Becoming a Software Architect</a>
-            </span>
-        <br>
-            <span><a href="https://www.udemy.com/certificate/UC-a096fb71-c535-43dc-a804-81222b58d996/" target="_blank">Microservices Architecture - The Complete Guide</a>
-            </span>
-        <br>
-        <span><a href="https://www.udemy.com/certificate/UC-6fed657f-693e-499c-a6de-8e972b5de38f/" target="_blank">Learn C++ Programming -Beginner to Advance- Deep Dive in C++</a></span>
-        </div></details></samp> 
-        </td>
-</tr>
+<iframe src="https://aderiani.github.io/sisyfos/" width="800" height="600"></iframe>
 
 ---
 
 [ </> 🆁🅴🆂🆄🅼🅴 🅲🅾🅳🅸🅽🅶 👨‍💻](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+author%3AAderiani)
-
----
-  
-
-<div align="left">
-  <a href="https://github.com/Aderiani/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Aderiani&label=PROFILE+VIEWS&colorA=655BE1&colorB=4F44D6">
-  </a>
-</div>
 
 ---
