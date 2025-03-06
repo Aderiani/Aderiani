@@ -129,10 +129,6 @@
 
 ---
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/Aderiani/Aderiani/output/github-contribution-grid-snake.svg)
-
-
----
 
 <div align="left">
   <a href="https://github.com/Aderiani/github-profile-views-counter">
