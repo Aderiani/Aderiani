@@ -3,7 +3,7 @@
 </div>
 <br>
 
- <div>
+ <div align="center">
   <a href="https://github.com/Aderiani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aderiani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aderiani&hide=css,html,javascript&layout=compact&langs_count=7&theme=dracula&show_icons=true"/>
@@ -97,12 +97,12 @@
 </div>
 
 ---
-<br>
-<div align="center">
-  <iframe src="https://aderiani.github.io/sisyfos/" width="800" height="600"></iframe>
-  
-</div>
-<br>
+## Play My Game 🎮
+
+[![Sisyfos Screenshot](https://your-image-url.com/screenshot.png)](https://aderiani.github.io/sisyfos/)
+
+Click the image to play!
+
 
 ---
 
