@@ -97,8 +97,12 @@
 </div>
 
 ---
-
-<iframe src="https://aderiani.github.io/sisyfos/" width="800" height="600"></iframe>
+<br>
+<div align="center">
+  <iframe src="https://aderiani.github.io/sisyfos/" width="800" height="600"></iframe>
+  
+</div>
+<br>
 
 ---
 
