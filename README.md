@@ -97,11 +97,13 @@
 </div>
 
 ---
-## Play My Game 🎮
 
-[![Sisyfos Screenshot](https://your-image-url.com/screenshot.png)](https://aderiani.github.io/sisyfos/)
+## Play Sisyfos! 🎮
 
-Click the image to play!
+[![Play Sisyfos](https://img.shields.io/badge/Play-Sisyfos-blue?style=for-the-badge)](https://aderiani.github.io/sisyfos/)
+
+Click the badge above to play!
+
 
 
 ---
