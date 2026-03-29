@@ -148,4 +148,12 @@ and turning complex ideas into **robust, verifiable software**.
   <a href="https://github.com/Aderiani/Aderiani/discussions" target="_blank">
     <img src="https://img.shields.io/badge/Contact-333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <!-- Hack The Box CTF Badge -->
+  <a href="https://ctf.hackthebox.com/user/profile/1037893" target="_blank">
+    <img src="https://img.shields.io/badge/HTB-1E1E2C?style=for-the-badge&logo=hackthebox&logoColor=white">
+  </a>
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/u/45SvNMSQ9O/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
 </div>
